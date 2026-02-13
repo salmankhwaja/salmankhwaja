@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Salman, Khwaja
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),  I'm Salman, Khwaja
+---
 
 Application Security Architect | DevSecOps | Security Automation  
 I help teams ship software that survives contact with attackers.
